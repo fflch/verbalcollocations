@@ -1,0 +1,178 @@
+Preface
+
+It all started back in 1982, when I attended a summer course by Prof.
+Charles J. Fillmore named "Conventionality in Language", at the
+University of Maryland. I had just finished by Master's comparing the
+verbs 'to do' and 'to make', which was based on his article *The case
+for case* (1968).
+
+His course was a turning point in my academic career and gave rise to my
+PhD dissertation *Levels of Conventionality and the Translator's Task*
+(1987) in which I already pointed out that verbal collocations lacked
+adequate lexicographic material.
+
+This was confirmed by a survey to investigate how nine English verbal
+collocations and their Portuguese equivalents were treated in nine
+standard dictionaries, both monolingual English and bilingual
+English-Portuguese and in three Brazilian dictionaries, two bilingual
+and one monolingual. It showed that they did not receive systematic
+treatment.
+
+Most of them were listed under the verb, only a few under the noun.
+Although it might be appropriate to list a verbal collocation under the
+verb in a dictionary aimed at the comprehension of language, it is not
+so in one aimed at production. Usually, a speaker or writer knows the
+noun, the referential lexeme, but might not know the verb that goes with
+it. For that reason, verbal collocations should come under the noun, as
+Hausmann (1985) has already claimed, for the noun is the base in a
+verbal collocation. In addition, verbal collocations were rarely listed
+as an entry in their own right. Mostly, they were either listed as a
+subentry, or in the definition or still as part of an example, but
+sometimes not highlighted in any form.
+
+So I made it my goal to produce a bilingual
+English-Portuguese/Portuguese-English Dictionary of Verbal Collocations
+aimed at the production of language. I presented a model for an entry in
+my post-doctorate thesis (Tagnin, 1998).
+
+Put simply, a collocation is the cohesive combination of two or more
+words that have been conventionalized as a lexical unit. The structures
+addressed in the dictionary are the following:
+
+> V (Det) N~\[object\]~ -- *make trouble, make an impression*
+>
+> N~\[noun\]~ + V -- *river flows, nose runs*
+>
+> V + Prep + N -- *come into force, keep in touch*
+>
+> V + Adj -- *get rich, go wrong*
+
+Below I will discuss decisions that had to be made and which will make
+the notion of collocation clearer.
+
+For instance:
+
+\(1\) *Is this a collocation?*
+
+*Answer*: For a combination to be considered a collocation it must
+present some type of lexical restriction: *give a book* is not a
+collocation because *give* in this sense means to hand something over to
+someone and it can combine with any object, such as *give a book, give a
+pencil, give a present, give a dress* etc. However, *give a paper* at a
+conference has a very specific meaning and is thus considered a
+collocation.
+
+\(2\) *Is frequency the only criterion for a combination to be
+considered a collocation?*
+
+*Answer*: Frequency is not always the sole criterion, exclusivity
+(Brezina, McEnery, & Wattam, 2015, p. 140) is equally relevant. The
+Portuguese word for *doubt,* 'dúvida', collocates with 'esclarecer'
+(*clarify*) 2730 times in the *Corpus do Português: Web/Dialect*
+(Davies, s.d.) but only 321 with its synonym 'dirimir'. Nevertheless,
+DÚVIDA is the most common collocate of DIRIMIR, which qualifies the
+combination as a collocation. The same may be said for FURL which,
+though not a frequent verb, combines mostly with some type of sail:
+*Scouts untied lines, **furled sails**, dropped anchor. I went aloft to
+**furl the mainsail** in a blow.*
+
+\(3\) *Is this collocation too specialized to be included in a general
+dictionary?*
+
+*Answer*: This can be a tricky question, but we have decided to only
+include specialized collocations which are known to the general public
+or, as the editors of the *Oxford Collocations dictionary for students
+of English* have put it, to the "educated non-specialist" (2002, p. ix).
+So, for instance, *score a goal* has been included, while *jump offside*
+has not. By the same token, everyday legal collocations such as
+*file/settle/dismiss a lawsuit* are also listed.
+
+\(4\) *Is this a good example, does it make the meaning clear?*
+
+*Answer*: We have attempted to use examples that make the meaning clear
+because the dictionary does not include definitions. For instance, *Tom,
+you bring up a point that I brought up a few weeks back* does not offer
+enough context for the user to infer the meaning of *bring up a point*,
+whereas *While I doubt this is true, it does bring up a point I want to
+discuss* does.
+
+\(5\) *How can we find a good equivalent?*
+
+*Answer*: Finding a good equivalent can be difficult at times for
+various reasons: the collocation in language A is not translated by a
+similar collocation in language B. Whereas *crash a party* is a V + N
+collocation, its Portuguese equivalent, 'entrar de penetra numa festa'
+is not actually a collocation as we have defined it. Some collocations
+are translated by a single verb, like *go sour* whose equivalent is
+simply 'azedar'. More often than not nouns are quite different across
+languages: *make arrangements* becomes 'tomar providências' in
+Portuguese. In such cases one has to rely on one's own knowledge of both
+languages or resort to searches in monolingual or even bilingual
+parallel corpora (Tagnin, 2007).
+
+\(6\) *Should cognate verbal collocations be included?*
+
+*Answer*: We have opted to include cognate verbal collocations because
+they may differ in their inclusion or not of a determiner, for instance.
+*Make a difference* requires some kind of determiner, while in the
+Portuguese translation, 'fazer (uma) diferença', the determiner is not
+compulsory.
+
+\(7\) *How do we account for verbal collocations for which the
+equivalent is not a collocation?*
+
+*Answer*: Because this is a bidirectional dictionary, the verbal
+collocation will only be listed in the source language, that is, if it
+is a verbal collocation in English but not in Portuguese, there will be
+an entry for it in the English-Portuguese direction, but not in the
+reverse direction. For example, *go sour* will have an entry in the
+English-Portuguese direction with its equivalent 'azedar', but 'azedar'
+will not be an entry in the other direction as it is not a verbal
+collocation.
+
+Although the initial idea was to publish the dictionary on paper, it
+became increasingly clear that with the development of the internet and
+the cost of paper editions, an online publication would be the only
+plausible solution.
+
+Therefore, I am very happy to be able to bring to light the first part
+of the dictionary, that is, the English-Portuguese direction as part of
+the project NEH-funded project *Democratizing Digital Lexicography*,
+coordinated by Dr. Ligeia Lugli. Nevertheless, it is still work in
+progress -- are't all dictionaries? - as there are collocations for
+which there are no examples yet. Also, some examples may still be
+inadequate and will be replaced by better ones.
+
+References
+
+Brezina, V., McEnery, T., & Wattam, S. (2015). Collocations in context -
+a new perspective on collocation networks. *International Journal of
+Corpus Linguistics, 20:2*, pp. 139-173.
+
+Davies, M. (s.d.). *Corpus do Português: Web/Dialects*. Fonte:
+https://www.corpusdoportugues.org/:
+https://www.corpusdoportugues.org/web-dial/
+
+Fillmore, C. J. (1968). The Case for Case. Em E. B. (eds.), *Universals
+in Linguistic Theory* (pp. 1-88). New York: Holt, Rinehart & Winston.
+
+Hausmann, F. J. (1985). Kollokationen im deutschen Wörterbuch - ein
+Beitrag sur Theorie des lexikographischen Beispiels. Em H. Bergenholtz,
+& J. Mugdan (Eds.), *Lexikographie und Grammatik. Akten des Essener
+Kolloquiums zur Grammatick im Wörterbuch* (pp. 118-129). Tübingen:
+Niemeyer.
+
+*Oxford Collocations Dictionary.* (2002). Oxford: Oxford University
+Press.
+
+Tagnin, S. E. (1987). *Levels of Conventionality and the Translator\'s
+Task.* São Paulo, São Paulo: FFLCH / USP.
+
+Tagnin, S. E. (1998). Convencionalidade e Produção de Texto: um
+dicionário de colocações verbais inglês-português / português-inglês.
+*Tese de Livre Docência - USP-FFLCH - Departamento de Letras Modernas*.
+São Paulo, São Paulo, Brasil.
+
+Tagnin, S. E. (2007). A identificação de equivalentes tradutórios em
+corpora comporáveis. *Anais do I Congresso Internacional da ABRAPUI.*
+Belo Horizonte: UFMG.

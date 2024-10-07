@@ -1,0 +1,29 @@
+---
+title: 'Home'
+---
+ <br />
+ <br />
+
+
+This dictionary is the result of over 30 years collecting verbal
+collocations from various sources as can be seen from the references of
+the examples. When there are no references, they were retrieved from one
+of Mark Davies´s English and Portuguese corpora.
+
+The dictionary offers no definitions but the examples were chosen so as
+to make the meaning clear.
+
+It is still a work in progress -- dictionaries are never complete! -- so
+there may be entries for which no equivalent or example is provided.
+Contributions are welcome. If you have any suggestions, please contact
+me.
+
+
+for more information see [COMET: corpus multilíngue para ensino e tradução](https://comet.fflch.usp.br/)
+
+
+**Acknowlegdments**
+
+This resource was made available in digital form by Ligeia Lugli thanks to the NEH-funded project Democratizing Digital Lexicography (HAA-290402-23).
+
+

@@ -9,7 +9,7 @@ library(shiny)
   }
 
   ui <- fluidPage(
-    titlePanel("English-Portuguese Dictionary of Phrasal Verbs "),
+    titlePanel("English-Portuguese Dictionary of Verbal Collocations "),
         # actionButton("stop","stop preview"),
         tabsetPanel(
     tabPanel("Home",
